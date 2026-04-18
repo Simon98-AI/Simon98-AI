@@ -9,7 +9,7 @@
 </p>
 
 ## How you doing!
-* 🏫 I am a second-year Ph.D Student at Beijing Institute of Technology, supervised by Liyuan Pan Professor. Before that, I received a master degree in Shandong University, supervised by Prof. Jianhua Yin and Prof. Liqiang Nie.
+* 🏫 I am a second-year Ph.D Student at Beijing Institute of Technology, supervised by Prof. Liyuan Pan. Before that, I received a master degree in Shandong University, supervised by Prof. Jianhua Yin and Prof. Liqiang Nie.
 * 🔬 My research focuses on multimodal understanding models (LLMs / MLLMs). My goal is to ensure that they can operate effectively and reliably in the real-world setting. Recently, I am going to build autonomous multimodal agentic systems. 
 * 🏝️ I've always believed that people need to spend time outdoors to feel truly alive.
 * 🐈 I love tennis, 3.0!🥰
